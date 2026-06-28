@@ -1,4 +1,4 @@
-# Preparing RCT Experimentation in Grenoble on Residential Electrical Consumption
+# Selecting Comparable Experiment Groups for Indirect Electricity Flexibility in Grenoble Based on Similarity Measures in Electrical Consumption and Socio-Economic Context
 
 **Author:** Kimsrang IET
 
