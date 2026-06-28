@@ -1,4 +1,4 @@
-# Selecting Comparable Experiment Groups for Indirect Electricity Flexibility in Grenoble Based on Similarity Measures in Electrical Consumption and Socio-Economic Context
+# Preparing a Randomized Control Trial Experimentation in Grenoble on Residentail Electrical Consumption
 
 **Author:** Kimsrang IET
 
