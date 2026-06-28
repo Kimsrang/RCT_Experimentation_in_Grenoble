@@ -64,7 +64,7 @@ The output from the code includes:
 - Observe the consumption behavior 
 - Statistical performance indicators
 
-## Objective
+## Final Objective
 
 The final objective is to identify a higher comparable feeder pair in term of:
 
