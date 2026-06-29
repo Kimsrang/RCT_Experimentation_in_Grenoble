@@ -62,7 +62,7 @@ The output from the code includes:
 - Physical distance between the feeder pair
 - Interactive map
 - Observe the consumption behavior 
-- Statistical performance indicators
+- Statistical performance indicators for electrical cosumption behavior
 
 ## Final Objective
 
